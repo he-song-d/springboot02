@@ -13,6 +13,8 @@ class Springboot02ApplicationTests {
         System.out.println("=================");
         System.out.println("7777777777777777777");
         System.out.println("--------------------");
+        System.out.println("8888888888888888888");
+        System.out.println("788888888886666666666");
     }
 
 }
